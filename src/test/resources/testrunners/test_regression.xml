@@ -7,9 +7,10 @@
 <listeners>
 		<listener
 			class-name="com.qa.opencart.listeners.ExtentReportListener" />
-		
+		<listener
+			class-name="com.qa.opencart.listeners.TestAllureListener" />
 	</listeners>
-
+	
  <test name="Login page Test">
 	
 	<parameter name="browser" value="chrome">
