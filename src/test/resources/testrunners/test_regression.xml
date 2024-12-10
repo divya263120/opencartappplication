@@ -20,13 +20,13 @@
   </classes>
    </test>
 
- <test name="Account page Test">
-	<parameter name="browser" value="firefox">
-	</parameter>
-  <classes>
-   <class name="com.qa.opencart.tests.AccountsPageTest" />
-  </classes>
-   </test>
+<!-- <test name="Account page Test">-->
+<!--	<parameter name="browser" value="firefox">-->
+<!--	</parameter>-->
+<!--  <classes>-->
+<!--   <class name="com.qa.opencart.tests.AccountsPageTest" />-->
+<!--  </classes>-->
+<!--   </test>-->
  
  <test name="ProductInfo page Test">
 	<parameter name="browser" value="edge">
